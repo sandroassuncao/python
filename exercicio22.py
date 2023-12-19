@@ -1,0 +1,10 @@
+frase = 'Sandro Fabricio Almeida Assunção'
+print(frase.upper())
+print(frase.lower())
+print (len (frase))
+print(len(frase)-frase.count(' '))
+print(frase.count('e'))
+print(frase.strip())
+print(frase.split())
+print('-'.join(frase))
+print(frase[:14])
